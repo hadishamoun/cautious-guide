@@ -1,0 +1,14 @@
+[
+  {
+  
+"origin":"Italy",
+    "date":"1/10/2020",
+    "type": "5.5mm clear",
+    "description": "225*321",
+    "sheet": 20,
+    "box":100,
+    "building":4,
+    "wall":0,
+    "direction":"right"
+  }
+]
